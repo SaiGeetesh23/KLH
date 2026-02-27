@@ -1,1 +1,0 @@
-To provide you with tax recommendations, I can have our TaxSaverAgent analyze your bank statement for potential tax-saving opportunities under Section 80C and 80D. Please upload your bank statement in CSV format, and I'll transfer you to the TaxSaverAgent for a detailed analysis.
